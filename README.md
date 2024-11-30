@@ -1,3 +1,7 @@
+![image](https://github.com/user-attachments/assets/c860740e-3631-4c59-b487-f2a33163fa15)
+
+</hr>
+
 ![Typescript: orientação a objetos](https://imgur.com/9399vxd.png)
 
 # Typescript: orientação a objetos
